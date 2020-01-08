@@ -1,5 +1,5 @@
 ## overview
-This is the PyTorch implementation of paper 
+This is the PyTorch implementation of XXX 
 
 ## Requirements
 * torch==1.3.0+cpu
@@ -38,7 +38,7 @@ This is the PyTorch implementation of paper
 ```
 ## Run
 ```
-git clone https://github.com/IIT-Lab/MBPANet
+git clone https://github.com/IIT-Lab/MBPANet.git
 cd MBPANet
 python train.py
 python test.py
