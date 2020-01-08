@@ -43,7 +43,4 @@ cd MBPANet
 python train.py
 python test.py
 ```
-## Acknowledgement
-
-## Cite
 
